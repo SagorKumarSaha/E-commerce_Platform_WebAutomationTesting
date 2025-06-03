@@ -1,4 +1,4 @@
-# An E-commerce Website Automation Testing Using Hybride Framework
+# An E-commerce Platform Website Automation Testing Using Hybrid Framework
 
 ## Modules that I have tested through Automation Testing ->
 - Sign-up
@@ -17,5 +17,5 @@
 - Report client : Extent reports, testng
 
 
-If you face any issues, please contact me.
-Email - sagorsaha746@gmail.com
+**If you face any issues, please contact me.
+Email - sagorsaha746@gmail.com**
