@@ -1,6 +1,6 @@
 # An E-commerce Website Automation Testing Using Hybride Framework
 
-## Modules that I have tested through Automation Testing -->
+## Modules that I have tested through Automation Testing ->
 - Sign-up
 - Login
 - Forgot password
@@ -8,7 +8,7 @@
 - Add Billing Address
 - Search an product and Order the product (Full process)
 
-## Technology: 
+## Technology ->
 - Tool: Selenium Webdriver
 - IDE: Eclipse
 - Build tool: Maven
