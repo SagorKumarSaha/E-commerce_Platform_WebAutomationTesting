@@ -15,7 +15,3 @@
 - Language: Java
 - Testing Framework : Hybrid Framework Model
 - Report client : Extent reports, testng
-
-
-**If you face any issues, please contact me.
-Email - sagorsaha746@gmail.com**
